@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\bin\Debug\net7.0\DoWhileSwicth.exe
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\bin\Debug\net7.0\DoWhileSwicth.deps.json
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\bin\Debug\net7.0\DoWhileSwicth.runtimeconfig.json
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\bin\Debug\net7.0\DoWhileSwicth.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\bin\Debug\net7.0\DoWhileSwicth.pdb
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\DoWhileSwicth.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\DoWhileSwicth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\DoWhileSwicth.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\DoWhileSwicth.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\DoWhileSwicth.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\DoWhileSwicth.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\refint\DoWhileSwicth.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\DoWhileSwicth.pdb
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\DoWhileSwicth.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\DoWhileSwicth\obj\Debug\net7.0\ref\DoWhileSwicth.dll
